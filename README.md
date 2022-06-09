@@ -2,3 +2,5 @@ I am going to be updating anyone reading this on my progress on learning Dart us
 
 There will be different week files
 Each file with have what was done in it
+
+I worked on it a few more weeks but then switched to Swift
